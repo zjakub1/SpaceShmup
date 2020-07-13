@@ -118,7 +118,7 @@ MonoBehaviour:
   enemyShot: {fileID: 4403592911528218531, guid: 633b36d8b9f6a884094f02f777957e10,
     type: 3}
   projectileSpeed: 13
-  explosionEffect: {fileID: 2301247309190341191, guid: b6aa0c88c51ba1040bd1bc2da645d963,
+  explosionEffect: {fileID: 4986619847798409452, guid: bf3528231349fc84d9c00eed5d877175,
     type: 3}
   delayTime: 1
   enemyLaserSFX: {fileID: 8300000, guid: 51b67cb419ed755459b9c2fa2ba422e4, type: 3}
